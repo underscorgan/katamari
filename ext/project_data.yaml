@@ -1,0 +1,7 @@
+---
+project: 'Katamari'
+author: 'Ryan McKern'
+email: 'ryan.mckern@puppetlabs.com'
+homepage: 'https://github.com/mckern/katamari'
+summary: 'A thin pasty wrapper around the packaging repo'
+description: 'Gotta test the packaging repo somehow, right?'

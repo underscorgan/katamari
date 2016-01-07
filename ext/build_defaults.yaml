@@ -1,0 +1,10 @@
+---
+packaging_url: 'git://github.com/puppetlabs/packaging.git --branch=master'
+packaging_repo: 'packaging'
+packager: 'puppetlabs'
+
+
+build_dmg: FALSE
+build_gem: FALSE
+sign_tar: FALSE
+team: release

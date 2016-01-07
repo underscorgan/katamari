@@ -1,0 +1,12 @@
+# Misc files
+.DS_Store
+Gemfile.local
+Gemfile.lock
+.gemspec
+/*release*/
+
+# Packaging files
+ext/packaging/
+
+# packages
+pkg/
