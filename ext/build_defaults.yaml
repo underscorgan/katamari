@@ -1,5 +1,5 @@
 ---
-packaging_url: 'git://github.com/puppetlabs/packaging.git --branch=master'
+packaging_url: 'git://github.com/underscorgan/packaging.git --branch=lvm_test'
 packaging_repo: 'packaging'
 packager: 'puppetlabs'
 
